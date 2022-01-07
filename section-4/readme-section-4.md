@@ -7,8 +7,27 @@ Further recommendations will include forecasting and operational efficiency whic
 
 [Link to slides](https://gaicstor2020.blob.core.windows.net/amy-ppts/ImplementingAIendtoendinthecloudwithAzure.pptx)
 
+## Full Code Example: 
+### Azure Machine Learning 
 
-## AI Builder Demo
+Getting data, training a forecasting model using AutoML technologies, testing the model, deploying it and calling the API.
+
+![Azure Machine Learning Notebook Interface](aml-forecasting.png)
+
+This example uses [sample code available with the Azure ML SDK](https://github.com/amynic/azureml-examples/tree/main/python-sdk/tutorials/automl-with-azureml/forecasting-orange-juice-sales)
+
+You can easily run these examples in Azure Machine Learning:
+* Create an Azure Machine Learning Workspace
+* Create a compute instance to run the notebook
+> [Create ML workspace and resources](https://docs.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources)
+* Select Notebooks from the left menu
+* Then Samples
+* Clone any sample and run in the notebook interface easily
+![Azure ML Sample Notebooks](aml-samples.png)
+
+
+## Low Code Example: 
+### AI Builder Demo
 Review how we built and implemented our AI Builder Forms Recogniser model without writing a line of code: [Video link](https://youtu.be/6IomHEWQ7t8)
 
 ![AI Builder Demo Visual](section-4-aibuilder-demo.png)

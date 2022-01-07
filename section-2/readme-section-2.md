@@ -4,6 +4,9 @@ Now we understand the data, create and share Power BI reports/dashboards with bu
 
 Taking simple data investigation for a data analyst/data scientist and changing into a useable report with pages, filters, titles and easy to read layout
 
+[Link to slides](https://gaicstor2020.blob.core.windows.net/amy-ppts/ImplementingAIendtoendinthecloudwithAzure.pptx)
+
+
 **Tailwind Traders Report: Daily Activity Page**
 ![Tailwind Traders Report: Daily Activity Page](section-2-dailyactivity.png)
 

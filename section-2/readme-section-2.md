@@ -6,6 +6,8 @@ Taking simple data investigation for a data analyst/data scientist and changing 
 
 [Link to slides](https://gaicstor2020.blob.core.windows.net/amy-ppts/ImplementingAIendtoendinthecloudwithAzure.pptx)
 
+[Link to Tailwind Traders Report PBIX file](section2-powerbi-report.pbix)
+
 
 **Tailwind Traders Report: Daily Activity Page**
 ![Tailwind Traders Report: Daily Activity Page](section-2-dailyactivity.png)

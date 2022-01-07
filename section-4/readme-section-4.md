@@ -11,3 +11,6 @@ Review how we built and implemented our AI Builder Forms Recogniser model withou
 ![AI Builder Demo Visual](section-4-aibuilder-demo.png)
 
 ## Extra Reading Links:
+
+* Microsoft Learn Modules (Self paced learning) [AI Builder](https://docs.microsoft.com/en-gb/learn/browse/?WT.mc_id=webupdates_GEP_PowerAutomate-web-wwl&products=ai-builder)
+* AI Builder [Documentation](https://docs.microsoft.com/en-gb/ai-builder/overview)
